@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NopCommerce Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.301">
+  <properties />
+  
+  
+            <testcase name="buildYourOwnComputer" time="20.301" classname="com.demo.nopcommerce.testSuite.BuildYourComputerTest" />
+      
+</testsuite>
